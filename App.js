@@ -43,13 +43,13 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     paddingHorizontal: 18,
-    paddingTop: 30,
-    justifyContent: "flex-start",
+    justifyContent: "center",
+    alignItems: "center",
   },
 
   card: {
     width: "100%",
-    marginTop: 30,
+    marginTop: 18,
     backgroundColor: "#FFFFFF",
     borderRadius: 22,
     padding: 22,
